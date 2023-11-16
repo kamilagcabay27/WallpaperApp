@@ -8,6 +8,9 @@ Ve seçtiğiniz bu duvar kağıtlarıda gördüğünüz gibi HD görüntüdedir
 Ve bu uygulamada kullandığım teknolojiler ;
 
 1- Dependency Injection 
+ 
 2- Dagger- Hilt
+
 3- Retrofit
+
 4- MVVM
